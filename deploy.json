@@ -1,0 +1,13 @@
+{
+    "preRequisitePython":[
+        "git"
+    ],
+    "preRequisitesSystem":[
+        ""
+    ],
+    "executionSettings": [
+        {
+            "script":"myScript.py"
+        }
+    ]
+}
