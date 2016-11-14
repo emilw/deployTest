@@ -1,13 +1,15 @@
 {
-    "preRequisitePython":[
+    "name": "Test program",
+    "prerequisitesPython":[
         "git"
     ],
-    "preRequisitesSystem":[
+    "prerequisitesSystem":[
         ""
     ],
     "executionSettings": [
         {
-            "script":"myScript.py"
+            "script":"myScript.py",
+            "schedules":["0****"]
         }
     ]
 }
