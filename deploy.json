@@ -11,5 +11,7 @@
             "script":"myScript.py",
             "schedules":["0****"]
         }
-    ]
+    ],
+    "versiontag":"",
+    "branch":"master"
 }
